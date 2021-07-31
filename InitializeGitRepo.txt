@@ -1,0 +1,7 @@
+//create git repo via github
+navigate to local folder 
+git init
+git add .
+git commit -m "Initial commit"
+git push --set-upstream https://github.com/BrandonHardatt/calculator.git master
+git status
